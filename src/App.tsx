@@ -85,8 +85,9 @@ function getBibleLink(label: string): string | null {
 
 export default function App() {
   // Navigation & Page State
-  const [activeTab, setActiveTab] = useState<string>("home");
+  const [activeTab, setActiveTab ] = useState<string>("home");
   const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
+  const [showCreditsAuthor, setShowCreditsAuthor] = useState<boolean>(false);
   
   // Customization State
   const [theme, setTheme] = useState<"light" | "sepia" | "dark">(() => {
@@ -1263,9 +1264,24 @@ export default function App() {
             <button id="footer-contact-btn" onClick={() => setActiveTab("contact")} className="hover:underline">Kontak</button>
           </div>
 
-          <div id="footer-credits-section" className="text-[10px] text-neutral-500 tracking-wider font-sans select-none pt-4 border-t border-black/5 dark:border-white/5">
+          <div 
+            id="footer-credits-section" 
+            onClick={() => {
+              setShowCreditsAuthor(prev => !prev);
+              playSound(440, 0.15, "sine", 0.02);
+            }}
+            className="text-[10px] text-neutral-500 tracking-wider font-sans select-none pt-4 border-t border-black/5 dark:border-white/5 cursor-pointer hover:text-rose-800 dark:hover:text-rose-400 transition-colors"
+          >
             TUHAN YESUS KRISTUS BERKATI &middot; AMIN &middot; COPYRIGHT (C) 2026 DOA AGPEYA INDONESIA
           </div>
+          {showCreditsAuthor && (
+            <div 
+              id="footer-author-credits" 
+              className="text-xs font-serif italic text-rose-800 dark:text-rose-300 animate-fade-in pb-2"
+            >
+              by Richard &amp; Nova Daris
+            </div>
+          )}
 
         </div>
       </footer>
