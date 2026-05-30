@@ -6,3 +6,10 @@
   --font-serif: "Libre Baskerville", "Playfair Display", Georgia, serif;
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
 }
+/* Perbaikan layout bocor pada perangkat mobile */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
