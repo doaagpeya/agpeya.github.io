@@ -7,9 +7,7 @@ export const corePrayers = {
     text: [
       "Dalam nama Bapa, dan Putra, dan Roh Kudus, Allah Yang Esa. Amin.",
       "Kyrie Eleison. Tuhan kasihanilah. Tuhan kasihanilah. Tuhan kasihanilah. Tuhan berkatilah kami. Amin.",
-      "Kemuliaan kepada Bapa dan Putra dan Roh Kudus, sekarang dan selamanya dan dari segala abad hingga segala abd. Amin.",
-      "",
-      "",
+      "Kemuliaan kepada Bapa dan Putra dan Roh Kudus, sekarang dan selamanya dan dari segala abad hingga segala abad. Amin.",
       "Layakkan kami untuk berdoa dengan penuh syukur:"
       ]
   },
@@ -21,7 +19,7 @@ export const corePrayers = {
       "Jadilah kehendak-Mu di bumi seperti di surga.",
       "Berikanlah kami pada hari ini makanan kami yang secukupnya,",
       "Dan ampunilah kami akan kesalahan kami, seperti kami juga mengampuni orang yang bersalah kepada kami,",
-      "Dan janganlah membawa kami ke dalam pencobaan, tetapi lepaskanlah kami dari yang jahat,",
+      "Dan janganlah membawa kami ke dalam pencobaan, tetapi lepaskanlah kami dari pada yang jahat,",
       "Dalam Kristus Yesus Tuhan kami, karena Engkaulah yang empunya kerajaan, dan kuasa, dan kemuliaan sampai selama-lamanya. Amin."
     ]
   },
@@ -34,8 +32,8 @@ export const corePrayers = {
       "Ya Junjungan Agung, Tuhan dan Allah Sang Pantokrator, Bapa dari Tuhan, Allah dan Juru Selamat kami, Yesus Kristus. Kami mengucap syukur kepada-Mu untuk segala sesuatu, mengenai segala sesuatu dan dalam segala sesuatu.",
       "Karena Engkau telah menudungi, menolong, menjaga, dan menerima kami pada-Mu sendiri, menyisihkan, mendukung, dan membawa kami hingga saat ini.",
       "Karena itu kami meminta dan memohon kebaikan-Mu, wahai Yang mengasihi manusia, tolonglah kami untuk menyelesaikan hari suci ini, dan semua hari-hari kehidupan kami dalam damai dengan rasa takut kepada-Mu.",
-      "Semua iri, semua pencobaan, semua pekerjaan setan, nasihat orang fasik dan musuh yang bangkit melawan kami, baik yang terlihat maupun tersembunyi, supaya enyah dari kami. Dan dari semua umat-Mu, dan dari gereja ini, dari sini dari tempat suci-Mu. Tapi hal-hal yang baik dan menguntungkan yang diberikan kepada kami, untuk itu berikanlah kepada kami kuasa un tuk mengin jak ular dan kalajengking, dan atas semua kekuatan musuh. Dan janganlah membawa kami dalam pencobaan tetapi bebaskanlah dari yang jahat.",
-      "Melalui anugerah, belas kasihan dan demi kasih Putra-Mu yang tunggal kepada manusia, Tuhan  kami, Allah dan Juruselamat Yesus Kristus, melalui-Nya kemuliaan, hormat, kuasa dan sembah sujud hanya layak bagi-mu, bersama dengan Dia dan Roh Kudus, Sang Pemberi Hidup, yang sehakekat dengan-Mu, sekarang dan selamanya dari segala abad hingga segala abad. Amin."
+      "Semua iri, semua pencobaan, semua pekerjaan setan, nasihat orang fasik dan musuh yang bangkit melawan kami, baik yang terlihat maupun tersembunyi, supaya enyah dari kami. Dan dari semua umat-Mu, dan dari gereja ini, dari sini dari tempat suci-Mu. Tapi hal-hal yang baik dan menguntungkan yang diberikan kepada kami, untuk itu berikanlah kepada kami kuasa untuk menginjak ular dan kalajengking, dan atas semua kekuatan musuh. Dan janganlah membawa kami dalam pencobaan tetapi bebaskanlah dari yang jahat.",
+      "Melalui anugerah, belas kasihan dan demi kasih Putra-Mu yang tunggal kepada manusia, Tuhan  kami, Allah dan Juruselamat Yesus Kristus, melalui-Nya kemuliaan, hormat, kuasa dan sembah sujud hanya layak bagi-Mu, bersama dengan Dia dan Roh Kudus, Sang Pemberi Hidup, yang sehakekat dengan-Mu, sekarang dan selamanya dari segala abad hingga segala abad. Amin."
     ]
   },
   mazmur51: {
